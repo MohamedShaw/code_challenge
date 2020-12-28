@@ -31,7 +31,6 @@ export const IntroSwiper = ({ marginHorizontal }) => {
           position: "absolute",
           bottom: responsiveHeight(2),
           right: 20,
-          //   left: index !== 0 ? 20 : undefined,
           justifyContent: "center",
           alignItems: "center",
         }}
