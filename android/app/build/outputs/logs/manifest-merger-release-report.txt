@@ -1,0 +1,703 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [:@react-native-community_cameraroll] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-restart] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_viewpager] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_netinfo] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-navigation] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-wheel-picker-android] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-wheel-picker-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-spinkit] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-snackbar] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-snackbar/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-shimmer] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-shimmer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-i18n] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-i18n/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fast-image] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-extra-dimensions-android] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-extra-dimensions-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-open-settings] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-open-settings/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:20:1-91:12
+MERGED from [:react-native-maps] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/060f78adad9d02bad39c5684716f58fb/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.troZee:ViewPager2:v1.0.6] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/88f34ee69246674a3b74845ebf545427/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/94f433d167c484218a6f1b0d05b7d07c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/59b61b7c3940773122d7ce2f1c5a24f2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ccd289c28f107ce4c92d4298ef233af6/AndroidManifest.xml:2:1-12:12
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:20:1-85:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1353e7def935669d9554d2c35b24afe2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/de339f91011ef1954fe3eee603e040be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:17:1-38:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/16163c7c439d003e40d9633992e1cf25/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2dd1728657e4f2b4724cb2327d657fcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/f97d69128ff3e20024002d9a25760cd4/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/51310394038158ff32f5373376458752/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/69451c5e675e6a4a6763ae39aea57031/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5dcc93c879d3bca3de388fdd884f4772/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18856f82c2a9375f4a3a7dcf3529282d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/eb95d177de57c6f64ca4156f308aaf55/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/a4cbd0b41d6dd1f243ce39c1519ec333/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e315fa00e068513fb9d67acdba541323/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/04bf899ae6627e45d1045fec3768b7bb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/fd5edd9044a5fb688a32ae489b2f27e8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d16dcd49704d12a5f26040a17dfaa185/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/aa16561228ee8cc9b1f234bcf410e343/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/23643546370adaf470b70cd0380f4789/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/3753d3e6600a884ad1529559a2e18ce9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d7d4bfd9fa8c43e6ddc0300bb881f640/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/576ee2cdb7e75eaba77eabeeed144642/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/820ff0f972d4b7df2ced583310a2af54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d84f4cc657d6c603c05d3beb01b34316/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/73b3eeb147b8ca4419a2886e77ab8111/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/935bc885e66a531dcb78e6ffffa5c60c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2dd544f9161d0c1cdaad5837628f2555/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/174475dda8a7910c324ac6a2a7bb447d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/22168f2d767b5faead6d935e84f1fcf2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d6effc9cce9b625a7e2db6d36c96ad7d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2a52c15e0e1d7a7e4d89b0b49afa5088/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ef631f614249aab5740a605907c6954d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/db03995f8e4dea59f9423d958bb6cb3d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/8db3e0e2208665d9d44e332f17f4e76f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/71cdaf443122e1701b3b92ca6b637399/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/89941f201e68bdf14b8928bf6daf308b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ec9c00160f7c860d0a796a436c885aae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/c64000a7bc353638e6d2034c6e43aeb9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5fa90fe269e215a4472f552bba0669b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/9d654b58775dc53fb03ff4e96d94edf5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/00b4ff977c7186c52d80acdfd380a1a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ae8c4f68f9c4bdfdae4d1a8fd33c50e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/cdb24a4e41fec53185cbcff68ca50ef5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/03f385d0a1cd684815d773666e379299/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/0d36c0c46585632a223fc096d07446ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/b34f5b6aceeecbc38e85c927ce3db957/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d54f91aa10ddc21dc41d8badabd83f21/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/10470e13952dfe7d3261ece98e6acaa1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/173738c92b146ff2dd55dcf36a517a83/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/0714fe0d81dfb1e84bfae62fd5ea4214/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/4f7689f230e3871ee66272e8f50b3a62/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/961cf00f4eb9390d47b933cee09a9a87/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/899a4dd542f32707581381d2ed8ac2ea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/aaf7893e0882b3629aa542ab553c80d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e9f12c69fa06a2a3ea053d92e32fed3f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/c791d80e2160d863aacff239e3a81aae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/46393c4715de4d6372175017fe0fc652/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1344c5171a24b3fdb9b2acb7397d5033/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5721572bfbb6f3bbe3b098e41487e064/AndroidManifest.xml:2:1-9:12
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5d78878a628a1dbc0ada6274d83d8819/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/387104932db46cea5b02557ff00e0a22/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:117-145
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:70-116
+	android:versionCode
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:3:3-65
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-67
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-67
+MERGED from [:react-native-maps] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:3:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:4:3-76
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:4:20-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:5:3-79
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:react-native-maps] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:5:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:6:3-77
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:6:20-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:7:3-63
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:7:20-60
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:8:3-70
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:8:20-67
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:9:3-71
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:9:20-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:10:3-78
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:10:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:11:3-79
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:11:20-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:12:3-71
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:12:20-68
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:13:3-78
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:13:20-75
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:16:3-70
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:16:20-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:18:3-69
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:18:20-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:19:3-77
+MERGED from [:@react-native-community_netinfo] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:@react-native-community_netinfo] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:19:20-74
+application
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:21:3-34:17
+MERGED from [:react-native-navigation] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-splash-screen] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-spinkit] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-spinkit] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:43:5-89:19
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:43:5-89:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/060f78adad9d02bad39c5684716f58fb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/060f78adad9d02bad39c5684716f58fb/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/94f433d167c484218a6f1b0d05b7d07c/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/94f433d167c484218a6f1b0d05b7d07c/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/59b61b7c3940773122d7ce2f1c5a24f2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/59b61b7c3940773122d7ce2f1c5a24f2/AndroidManifest.xml:22:5-20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-83:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-83:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:30:5-36:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/f97d69128ff3e20024002d9a25760cd4/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/f97d69128ff3e20024002d9a25760cd4/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/69451c5e675e6a4a6763ae39aea57031/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/69451c5e675e6a4a6763ae39aea57031/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5dcc93c879d3bca3de388fdd884f4772/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5dcc93c879d3bca3de388fdd884f4772/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18856f82c2a9375f4a3a7dcf3529282d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18856f82c2a9375f4a3a7dcf3529282d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/eb95d177de57c6f64ca4156f308aaf55/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/eb95d177de57c6f64ca4156f308aaf55/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/a4cbd0b41d6dd1f243ce39c1519ec333/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/a4cbd0b41d6dd1f243ce39c1519ec333/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ef631f614249aab5740a605907c6954d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ef631f614249aab5740a605907c6954d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/db03995f8e4dea59f9423d958bb6cb3d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/db03995f8e4dea59f9423d958bb6cb3d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/71cdaf443122e1701b3b92ca6b637399/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/71cdaf443122e1701b3b92ca6b637399/AndroidManifest.xml:9:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d54f91aa10ddc21dc41d8badabd83f21/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d54f91aa10ddc21dc41d8badabd83f21/AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/46393c4715de4d6372175017fe0fc652/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/46393c4715de4d6372175017fe0fc652/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1344c5171a24b3fdb9b2acb7397d5033/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1344c5171a24b3fdb9b2acb7397d5033/AndroidManifest.xml:7:5-11:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:11:5-16:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-alpha01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ef631f614249aab5740a605907c6954d/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [:react-native-spinkit] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:21:48-80
+	android:roundIcon
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:21:111-145
+	android:icon
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:21:81-110
+	android:allowBackup
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:21:146-173
+	android:theme
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:21:174-205
+	android:usesCleartextTraffic
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:21:206-241
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:21:16-47
+uses-library#org.apache.http.legacy
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:22:5-84
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:22:57-81
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:22:19-56
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:24:5-120
+	android:value
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:24:62-117
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:24:16-61
+activity#com.medical.balsam.MainActivity
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:25:5-30:16
+	android:label
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:25:44-76
+	android:windowSoftInputMode
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:25:148-190
+	android:configChanges
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:25:77-147
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:25:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:26:7-29:23
+action#android.intent.action.MAIN
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:27:9-61
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:27:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:28:9-69
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:28:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:31:5-82
+MERGED from [:react-native-navigation] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:12:9-14:40
+MERGED from [:react-native-navigation] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:react-native-navigation] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml:31:15-79
+uses-sdk
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_cameraroll] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_cameraroll] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-restart] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_viewpager] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_viewpager] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/mohamed/Desktop/work/balsam-react/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-navigation] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-wheel-picker-android] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-wheel-picker-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-wheel-picker-android] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-wheel-picker-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-spinkit] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-snackbar] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-snackbar/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snackbar] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-snackbar/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-shimmer] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-shimmer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-shimmer] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-shimmer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-i18n/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-i18n/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-extra-dimensions-android] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-extra-dimensions-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-extra-dimensions-android] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-extra-dimensions-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-open-settings] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-open-settings/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-open-settings] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-open-settings/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-27:41
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-27:41
+MERGED from [:react-native-maps] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/060f78adad9d02bad39c5684716f58fb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/060f78adad9d02bad39c5684716f58fb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.troZee:ViewPager2:v1.0.6] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/88f34ee69246674a3b74845ebf545427/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.troZee:ViewPager2:v1.0.6] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/88f34ee69246674a3b74845ebf545427/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/94f433d167c484218a6f1b0d05b7d07c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.1.2] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/94f433d167c484218a6f1b0d05b7d07c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/59b61b7c3940773122d7ce2f1c5a24f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/59b61b7c3940773122d7ce2f1c5a24f2/AndroidManifest.xml:20:5-44
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ccd289c28f107ce4c92d4298ef233af6/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ccd289c28f107ce4c92d4298ef233af6/AndroidManifest.xml:8:5-10:41
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-44
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1353e7def935669d9554d2c35b24afe2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1353e7def935669d9554d2c35b24afe2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/de339f91011ef1954fe3eee603e040be/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/de339f91011ef1954fe3eee603e040be/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/16163c7c439d003e40d9633992e1cf25/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/16163c7c439d003e40d9633992e1cf25/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2dd1728657e4f2b4724cb2327d657fcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2dd1728657e4f2b4724cb2327d657fcc/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/f97d69128ff3e20024002d9a25760cd4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/f97d69128ff3e20024002d9a25760cd4/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/51310394038158ff32f5373376458752/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/51310394038158ff32f5373376458752/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/69451c5e675e6a4a6763ae39aea57031/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/69451c5e675e6a4a6763ae39aea57031/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5dcc93c879d3bca3de388fdd884f4772/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5dcc93c879d3bca3de388fdd884f4772/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18856f82c2a9375f4a3a7dcf3529282d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18856f82c2a9375f4a3a7dcf3529282d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/eb95d177de57c6f64ca4156f308aaf55/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/eb95d177de57c6f64ca4156f308aaf55/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/a4cbd0b41d6dd1f243ce39c1519ec333/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/a4cbd0b41d6dd1f243ce39c1519ec333/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e315fa00e068513fb9d67acdba541323/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e315fa00e068513fb9d67acdba541323/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/04bf899ae6627e45d1045fec3768b7bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/04bf899ae6627e45d1045fec3768b7bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/fd5edd9044a5fb688a32ae489b2f27e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/fd5edd9044a5fb688a32ae489b2f27e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d16dcd49704d12a5f26040a17dfaa185/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d16dcd49704d12a5f26040a17dfaa185/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/aa16561228ee8cc9b1f234bcf410e343/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/aa16561228ee8cc9b1f234bcf410e343/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/23643546370adaf470b70cd0380f4789/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/23643546370adaf470b70cd0380f4789/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/3753d3e6600a884ad1529559a2e18ce9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/3753d3e6600a884ad1529559a2e18ce9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d7d4bfd9fa8c43e6ddc0300bb881f640/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d7d4bfd9fa8c43e6ddc0300bb881f640/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/576ee2cdb7e75eaba77eabeeed144642/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/576ee2cdb7e75eaba77eabeeed144642/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/820ff0f972d4b7df2ced583310a2af54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/820ff0f972d4b7df2ced583310a2af54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d84f4cc657d6c603c05d3beb01b34316/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d84f4cc657d6c603c05d3beb01b34316/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/73b3eeb147b8ca4419a2886e77ab8111/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/73b3eeb147b8ca4419a2886e77ab8111/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/935bc885e66a531dcb78e6ffffa5c60c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/935bc885e66a531dcb78e6ffffa5c60c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2dd544f9161d0c1cdaad5837628f2555/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2dd544f9161d0c1cdaad5837628f2555/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/174475dda8a7910c324ac6a2a7bb447d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/174475dda8a7910c324ac6a2a7bb447d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/22168f2d767b5faead6d935e84f1fcf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/22168f2d767b5faead6d935e84f1fcf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d6effc9cce9b625a7e2db6d36c96ad7d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d6effc9cce9b625a7e2db6d36c96ad7d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2a52c15e0e1d7a7e4d89b0b49afa5088/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/2a52c15e0e1d7a7e4d89b0b49afa5088/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ef631f614249aab5740a605907c6954d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ef631f614249aab5740a605907c6954d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/db03995f8e4dea59f9423d958bb6cb3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/db03995f8e4dea59f9423d958bb6cb3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/8db3e0e2208665d9d44e332f17f4e76f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/8db3e0e2208665d9d44e332f17f4e76f/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/71cdaf443122e1701b3b92ca6b637399/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/71cdaf443122e1701b3b92ca6b637399/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/89941f201e68bdf14b8928bf6daf308b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/89941f201e68bdf14b8928bf6daf308b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ec9c00160f7c860d0a796a436c885aae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ec9c00160f7c860d0a796a436c885aae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/c64000a7bc353638e6d2034c6e43aeb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/c64000a7bc353638e6d2034c6e43aeb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5fa90fe269e215a4472f552bba0669b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5fa90fe269e215a4472f552bba0669b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/9d654b58775dc53fb03ff4e96d94edf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/9d654b58775dc53fb03ff4e96d94edf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/00b4ff977c7186c52d80acdfd380a1a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/00b4ff977c7186c52d80acdfd380a1a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ae8c4f68f9c4bdfdae4d1a8fd33c50e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/ae8c4f68f9c4bdfdae4d1a8fd33c50e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/cdb24a4e41fec53185cbcff68ca50ef5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/cdb24a4e41fec53185cbcff68ca50ef5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/03f385d0a1cd684815d773666e379299/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/03f385d0a1cd684815d773666e379299/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/0d36c0c46585632a223fc096d07446ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/0d36c0c46585632a223fc096d07446ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/b34f5b6aceeecbc38e85c927ce3db957/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/b34f5b6aceeecbc38e85c927ce3db957/AndroidManifest.xml:20:5-44
+MERGED from [com.github.clans:fab:1.6.4] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d54f91aa10ddc21dc41d8badabd83f21/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/d54f91aa10ddc21dc41d8badabd83f21/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/10470e13952dfe7d3261ece98e6acaa1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/10470e13952dfe7d3261ece98e6acaa1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/173738c92b146ff2dd55dcf36a517a83/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/173738c92b146ff2dd55dcf36a517a83/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/0714fe0d81dfb1e84bfae62fd5ea4214/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/0714fe0d81dfb1e84bfae62fd5ea4214/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/4f7689f230e3871ee66272e8f50b3a62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/4f7689f230e3871ee66272e8f50b3a62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/961cf00f4eb9390d47b933cee09a9a87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/961cf00f4eb9390d47b933cee09a9a87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/899a4dd542f32707581381d2ed8ac2ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/899a4dd542f32707581381d2ed8ac2ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/aaf7893e0882b3629aa542ab553c80d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/aaf7893e0882b3629aa542ab553c80d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e9f12c69fa06a2a3ea053d92e32fed3f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e9f12c69fa06a2a3ea053d92e32fed3f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/c791d80e2160d863aacff239e3a81aae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/c791d80e2160d863aacff239e3a81aae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/46393c4715de4d6372175017fe0fc652/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/46393c4715de4d6372175017fe0fc652/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1344c5171a24b3fdb9b2acb7397d5033/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1344c5171a24b3fdb9b2acb7397d5033/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5721572bfbb6f3bbe3b098e41487e064/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5721572bfbb6f3bbe3b098e41487e064/AndroidManifest.xml:5:5-7:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5d78878a628a1dbc0ada6274d83d8819/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/5d78878a628a1dbc0ada6274d83d8819/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/387104932db46cea5b02557ff00e0a22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/387104932db46cea5b02557ff00e0a22/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohamed/Desktop/work/balsam-react/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/mohamed/Desktop/work/balsam-react/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:17-67
+uses-permission#android.hardware.location
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:29:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:31:22-65
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:35:22-86
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-94
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:36:22-91
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:37:22-78
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-77
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:38:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-78
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:39:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:40:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:40:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-77
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:41:22-74
+service#com.marianhello.bgloc.sync.SyncService
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:44:9-55:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:42:9-53:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:42:9-53:19
+	android:process
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:47:13-36
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-66
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:29
+action#android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-70
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:49:25-67
+meta-data#android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-54:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-52:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-52:55
+	android:resource
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-52
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:53:17-59
+service#com.marianhello.bgloc.sync.AuthenticatorService
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-64:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:54:9-62:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:54:9-62:19
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:56:18-80
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-59:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:58:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-63:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-61:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-61:57
+	android:resource
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:63:17-54
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:62:17-69
+provider#com.marianhello.bgloc.data.provider.LocationContentProvider
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-70:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-68:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-68:39
+	android:authorities
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-75
+	android:syncable
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-87
+service#com.marianhello.bgloc.service.LocationServiceImpl
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:72:9-75:40
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-73:40
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-73:40
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:73:13-77
+service#com.marianhello.bgloc.react.headless.HeadlessService
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:76:9-79:40
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:78:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:77:13-80
+receiver#com.marianhello.bgloc.BootCompletedReceiver
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:81:9-88:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:75:9-82:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:75:9-82:20
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:82:13-71
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:85:13-87:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:86:17-79
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/mohamed/Desktop/work/balsam-react/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:86:25-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/18048bee61d724d6f64c4a6bf2d63d2a/AndroidManifest.xml:28:9-32
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/f97d69128ff3e20024002d9a25760cd4/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/f97d69128ff3e20024002d9a25760cd4/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/f97d69128ff3e20024002d9a25760cd4/AndroidManifest.xml:12:13-84
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/e66bf21e0aaa26d882b53d36b687eb45/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/a4cbd0b41d6dd1f243ce39c1519ec333/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1344c5171a24b3fdb9b2acb7397d5033/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/1344c5171a24b3fdb9b2acb7397d5033/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/a4cbd0b41d6dd1f243ce39c1519ec333/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/a4cbd0b41d6dd1f243ce39c1519ec333/AndroidManifest.xml:24:13-58
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/mohamed/.gradle/caches/transforms-2/files-2.1/071e49457f3fb48ed21cdb0ab7c0604f/AndroidManifest.xml:13:13-83
