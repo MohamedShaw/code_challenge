@@ -1,0 +1,19 @@
+export const SET_LANG = "SET_LANG";
+export const SET_INTERNET_CONNECTION = "SET_INTERNET_CONNECTION";
+export const REFRESH_LIST = "REFRESH_LIST";
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGOUT = "LOG_OUT";
+
+export const SAVE_CATEGORIES = "SAVE_CATEGORIES";
+
+export const UPDATE_CART = "UPDATE_CART";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGIN_RESET_ERROR = "LOGIN_RESET_ERROR";
+export const ADD_PRODUCT_CART = "ADD_PRODUCT_CART";
+export const REMOVE_ITEM_IN_CART = "REMOVE_ITEM_IN_CART";
+export const SET_LOCATION = "SET_LOCATION";
+export const RESET_LOCATION = "RESET_LOCATION";
+export const SET_GPS_STATUS = "SET_GPS_STATUS";
+export const CLEAR_CAT ="CLEAR_CAT"
+export const CLEAR_CART = "CLEAR_CART"

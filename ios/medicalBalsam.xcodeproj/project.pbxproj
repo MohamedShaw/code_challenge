@@ -1,0 +1,1016 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
+		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
+		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
+		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
+		6914A9843D124000B8B78F67 /* Cairo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 894165FEFBAA4135A232F5EA /* Cairo-Bold.ttf */; };
+		7F1E8063AF2952AC960667CF /* libPods-medicalBalsamTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B6D7BB662E765D2A46028D15 /* libPods-medicalBalsamTests.a */; };
+		8494DBFFAB7446D29AE5CE0D /* libRNGestureHandler.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EC81B227B2E24B0988AEF5E6 /* libRNGestureHandler.a */; };
+		A18D0A2B8D0F0A20E65DFEDB /* libPods-medicalBalsam.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE846ABBAB237983E99492F8 /* libPods-medicalBalsam.a */; };
+		D8743353CFC5459EA9DD6E0E /* Cairo-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AF7E0F7A46B14B8FA7C172F1 /* Cairo-SemiBold.ttf */; };
+		D922B22924F43E9C00406D88 /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = 008F07F21AC5B25A0029DE68 /* main.jsbundle */; };
+		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
+		ED2971652150620600B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED2971642150620600B7C4FE /* JavaScriptCore.framework */; };
+		EFEB46E206DB4C1C857DA487 /* Cairo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 612589B1E9D54CD397D63847 /* Cairo-Regular.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		00E356F41AD99517003FC87E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
+			remoteInfo = medicalBalsam;
+		};
+		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
+			remoteInfo = "medicalBalsam-tvOS";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
+		071C3CC8DB8E4C1C99B13C1F /* libAirMaps.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libAirMaps.a; sourceTree = "<group>"; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = medicalBalsam/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = medicalBalsam/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = medicalBalsam/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = medicalBalsam/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = medicalBalsam/main.m; sourceTree = "<group>"; };
+		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4AFD9043087247D6B832B39C /* libRestart.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRestart.a; sourceTree = "<group>"; };
+		541A5077F56F3C8F0CDE80B4 /* Pods-medicalBalsamTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-medicalBalsamTests.debug.xcconfig"; path = "Target Support Files/Pods-medicalBalsamTests/Pods-medicalBalsamTests.debug.xcconfig"; sourceTree = "<group>"; };
+		612589B1E9D54CD397D63847 /* Cairo-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cairo-Regular.ttf"; path = "../src/assets/fonts/Cairo-Regular.ttf"; sourceTree = "<group>"; };
+		6A8291DB932DCE7E36157FC1 /* Pods-medicalBalsam.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-medicalBalsam.debug.xcconfig"; path = "Target Support Files/Pods-medicalBalsam/Pods-medicalBalsam.debug.xcconfig"; sourceTree = "<group>"; };
+		75FDE347B1BF08F82EF70432 /* Pods-medicalBalsamTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-medicalBalsamTests.release.xcconfig"; path = "Target Support Files/Pods-medicalBalsamTests/Pods-medicalBalsamTests.release.xcconfig"; sourceTree = "<group>"; };
+		7B8C729A9F7FED6D2DA8AC66 /* Pods-medicalBalsam.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-medicalBalsam.release.xcconfig"; path = "Target Support Files/Pods-medicalBalsam/Pods-medicalBalsam.release.xcconfig"; sourceTree = "<group>"; };
+		894165FEFBAA4135A232F5EA /* Cairo-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cairo-Bold.ttf"; path = "../src/assets/fonts/Cairo-Bold.ttf"; sourceTree = "<group>"; };
+		990F8D8C5B96492594E398D9 /* libRNFusedLocation.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNFusedLocation.a; sourceTree = "<group>"; };
+		AF7E0F7A46B14B8FA7C172F1 /* Cairo-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cairo-SemiBold.ttf"; path = "../src/assets/fonts/Cairo-SemiBold.ttf"; sourceTree = "<group>"; };
+		B6D7BB662E765D2A46028D15 /* libPods-medicalBalsamTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-medicalBalsamTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9965F49CAE44309840B5AEE /* libRNImagePicker.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNImagePicker.a; sourceTree = "<group>"; };
+		D911547C24FF922800BF0165 /* medicalBalsam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = medicalBalsam.app; path = "/Users/mohamed/Desktop/work/balsam-react/ios/build/Debug-iphoneos/medicalBalsam.app"; sourceTree = "<absolute>"; };
+		D911547D24FF922800BF0165 /* medicalBalsamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = medicalBalsamTests.xctest; path = "/Users/mohamed/Desktop/work/balsam-react/ios/build/Debug-iphoneos/medicalBalsamTests.xctest"; sourceTree = "<absolute>"; };
+		D911547E24FF922800BF0165 /* medicalBalsam-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "medicalBalsam-tvOS.app"; path = "/Users/mohamed/Desktop/work/balsam-react/ios/build/Debug-appletvos/medicalBalsam-tvOS.app"; sourceTree = "<absolute>"; };
+		D911547F24FF922800BF0165 /* medicalBalsam-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "medicalBalsam-tvOSTests.xctest"; path = "/Users/mohamed/Desktop/work/balsam-react/ios/build/Debug-appletvos/medicalBalsam-tvOSTests.xctest"; sourceTree = "<absolute>"; };
+		DE846ABBAB237983E99492F8 /* libPods-medicalBalsam.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-medicalBalsam.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC81B227B2E24B0988AEF5E6 /* libRNGestureHandler.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNGestureHandler.a; sourceTree = "<group>"; };
+		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		FE60B515AFEB4674BC4F9304 /* libRNCViewpager.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNCViewpager.a; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		00E356EB1AD99517003FC87E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F1E8063AF2952AC960667CF /* libPods-medicalBalsamTests.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F8C1A680F5B00A75B9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */,
+				8494DBFFAB7446D29AE5CE0D /* libRNGestureHandler.a in Frameworks */,
+				A18D0A2B8D0F0A20E65DFEDB /* libPods-medicalBalsam.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2D02E4781E0B4A5D006451C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ED2971652150620600B7C4FE /* JavaScriptCore.framework in Frameworks */,
+				2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2D02E48D1E0B4A5D006451C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		13A7E452F69A48E48E8C743D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				894165FEFBAA4135A232F5EA /* Cairo-Bold.ttf */,
+				612589B1E9D54CD397D63847 /* Cairo-Regular.ttf */,
+				AF7E0F7A46B14B8FA7C172F1 /* Cairo-SemiBold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		13B07FAE1A68108700A75B9A /* medicalBalsam */ = {
+			isa = PBXGroup;
+			children = (
+				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
+				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
+				13B07FB01A68108700A75B9A /* AppDelegate.m */,
+				13B07FB51A68108700A75B9A /* Images.xcassets */,
+				13B07FB61A68108700A75B9A /* Info.plist */,
+				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
+				13B07FB71A68108700A75B9A /* main.m */,
+			);
+			name = medicalBalsam;
+			sourceTree = "<group>";
+		};
+		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
+				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
+				2D16E6891FA4F8E400B85C8A /* libReact.a */,
+				DE846ABBAB237983E99492F8 /* libPods-medicalBalsam.a */,
+				B6D7BB662E765D2A46028D15 /* libPods-medicalBalsamTests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		47AFEBE441FD532E5EC33105 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6A8291DB932DCE7E36157FC1 /* Pods-medicalBalsam.debug.xcconfig */,
+				7B8C729A9F7FED6D2DA8AC66 /* Pods-medicalBalsam.release.xcconfig */,
+				541A5077F56F3C8F0CDE80B4 /* Pods-medicalBalsamTests.debug.xcconfig */,
+				75FDE347B1BF08F82EF70432 /* Pods-medicalBalsamTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		83CBB9F61A601CBA00E9B192 = {
+			isa = PBXGroup;
+			children = (
+				13B07FAE1A68108700A75B9A /* medicalBalsam */,
+				832341AE1AAA6A7D00B99B32 /* Libraries */,
+				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				13A7E452F69A48E48E8C743D /* Resources */,
+				47AFEBE441FD532E5EC33105 /* Pods */,
+				D922B16C24F4211D00406D88 /* Recovered References */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
+		};
+		D922B16C24F4211D00406D88 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				C9965F49CAE44309840B5AEE /* libRNImagePicker.a */,
+				071C3CC8DB8E4C1C99B13C1F /* libAirMaps.a */,
+				EC81B227B2E24B0988AEF5E6 /* libRNGestureHandler.a */,
+				990F8D8C5B96492594E398D9 /* libRNFusedLocation.a */,
+				FE60B515AFEB4674BC4F9304 /* libRNCViewpager.a */,
+				4AFD9043087247D6B832B39C /* libRestart.a */,
+			);
+			name = "Recovered References";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		00E356ED1AD99517003FC87E /* medicalBalsamTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "medicalBalsamTests" */;
+			buildPhases = (
+				DF9F1B2D749F5BCF82E03C35 /* [CP] Check Pods Manifest.lock */,
+				00E356EA1AD99517003FC87E /* Sources */,
+				00E356EB1AD99517003FC87E /* Frameworks */,
+				00E356EC1AD99517003FC87E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				00E356F51AD99517003FC87E /* PBXTargetDependency */,
+			);
+			name = medicalBalsamTests;
+			productName = medicalBalsamTests;
+			productReference = D911547D24FF922800BF0165 /* medicalBalsamTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		13B07F861A680F5B00A75B9A /* medicalBalsam */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "medicalBalsam" */;
+			buildPhases = (
+				E0497D350C59BC3338024481 /* [CP] Check Pods Manifest.lock */,
+				13B07F871A680F5B00A75B9A /* Sources */,
+				13B07F8C1A680F5B00A75B9A /* Frameworks */,
+				13B07F8E1A680F5B00A75B9A /* Resources */,
+				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				B32E6C57CA6BCB964CBAB862 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = medicalBalsam;
+			productName = "Hello World";
+			productReference = D911547C24FF922800BF0165 /* medicalBalsam.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2D02E47A1E0B4A5D006451C7 /* medicalBalsam-tvOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "medicalBalsam-tvOS" */;
+			buildPhases = (
+				2D02E4771E0B4A5D006451C7 /* Sources */,
+				2D02E4781E0B4A5D006451C7 /* Frameworks */,
+				2D02E4791E0B4A5D006451C7 /* Resources */,
+				2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "medicalBalsam-tvOS";
+			productName = "medicalBalsam-tvOS";
+			productReference = D911547E24FF922800BF0165 /* medicalBalsam-tvOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2D02E48F1E0B4A5D006451C7 /* medicalBalsam-tvOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "medicalBalsam-tvOSTests" */;
+			buildPhases = (
+				2D02E48C1E0B4A5D006451C7 /* Sources */,
+				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
+				2D02E48E1E0B4A5D006451C7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
+			);
+			name = "medicalBalsam-tvOSTests";
+			productName = "medicalBalsam-tvOSTests";
+			productReference = D911547F24FF922800BF0165 /* medicalBalsam-tvOSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		83CBB9F71A601CBA00E9B192 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 940;
+				ORGANIZATIONNAME = Facebook;
+				TargetAttributes = {
+					00E356ED1AD99517003FC87E = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = AQY38XJC5W;
+						ProvisioningStyle = Automatic;
+					};
+					2D02E47A1E0B4A5D006451C7 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+					2D02E48F1E0B4A5D006451C7 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 2D02E47A1E0B4A5D006451C7;
+					};
+				};
+			};
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "medicalBalsam" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				en,
+				Base,
+			);
+			mainGroup = 83CBB9F61A601CBA00E9B192;
+			productRefGroup = 83CBB9F61A601CBA00E9B192;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				13B07F861A680F5B00A75B9A /* medicalBalsam */,
+				00E356ED1AD99517003FC87E /* medicalBalsamTests */,
+				2D02E47A1E0B4A5D006451C7 /* medicalBalsam-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* medicalBalsam-tvOSTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		00E356EC1AD99517003FC87E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F8E1A680F5B00A75B9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				6914A9843D124000B8B78F67 /* Cairo-Bold.ttf in Resources */,
+				D922B22924F43E9C00406D88 /* main.jsbundle in Resources */,
+				EFEB46E206DB4C1C857DA487 /* Cairo-Regular.ttf in Resources */,
+				D8743353CFC5459EA9DD6E0E /* Cairo-SemiBold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2D02E4791E0B4A5D006451C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2D02E48E1E0B4A5D006451C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
+		};
+		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native Code And Images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+		};
+		B32E6C57CA6BCB964CBAB862 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-medicalBalsam/Pods-medicalBalsam-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-medicalBalsam/Pods-medicalBalsam-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DF9F1B2D749F5BCF82E03C35 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-medicalBalsamTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E0497D350C59BC3338024481 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-medicalBalsam-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		00E356EA1AD99517003FC87E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F871A680F5B00A75B9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+				13B07FC11A68108700A75B9A /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2D02E4771E0B4A5D006451C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */,
+				2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2D02E48C1E0B4A5D006451C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 13B07F861A680F5B00A75B9A /* medicalBalsam */;
+			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
+		};
+		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2D02E47A1E0B4A5D006451C7 /* medicalBalsam-tvOS */;
+			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		13B07FB11A68108700A75B9A /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				13B07FB21A68108700A75B9A /* Base */,
+			);
+			name = LaunchScreen.xib;
+			path = medicalBalsam;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		00E356F61AD99517003FC87E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 541A5077F56F3C8F0CDE80B4 /* Pods-medicalBalsamTests.debug.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-image-pickerios",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+					"$(SRCROOT)..\node_modules\neact-native-gesture-handlerios/**",
+					"$(SRCROOT)/../node_modules/react-native-geolocation-service/ios",
+					"$(SRCROOT)/../node_modules/@react-native-community/viewpager/ios",
+					"$(SRCROOT)/../node_modules/react-native-restart/ios",
+				);
+				INFOPLIST_FILE = medicalBalsamTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/medicalBalsam.app/medicalBalsam";
+			};
+			name = Debug;
+		};
+		00E356F71AD99517003FC87E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 75FDE347B1BF08F82EF70432 /* Pods-medicalBalsamTests.release.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COPY_PHASE_STRIP = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-image-pickerios",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+					"$(SRCROOT)..\node_modules\neact-native-gesture-handlerios/**",
+					"$(SRCROOT)/../node_modules/react-native-geolocation-service/ios",
+					"$(SRCROOT)/../node_modules/@react-native-community/viewpager/ios",
+					"$(SRCROOT)/../node_modules/react-native-restart/ios",
+				);
+				INFOPLIST_FILE = medicalBalsamTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/medicalBalsam.app/medicalBalsam";
+			};
+			name = Release;
+		};
+		13B07F941A680F5B00A75B9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A8291DB932DCE7E36157FC1 /* Pods-medicalBalsam.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = AQY38XJC5W;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-image-pickerios",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+					"$(SRCROOT)..\node_modules\neact-native-gesture-handlerios/**",
+					"$(SRCROOT)/../node_modules/react-native-geolocation-service/ios",
+					"$(SRCROOT)/../node_modules/@react-native-community/viewpager/ios",
+					"$(SRCROOT)/../node_modules/react-native-restart/ios",
+				);
+				INFOPLIST_FILE = medicalBalsam/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.fudex.balsam1;
+				PRODUCT_NAME = medicalBalsam;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		13B07F951A680F5B00A75B9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7B8C729A9F7FED6D2DA8AC66 /* Pods-medicalBalsam.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
+				DEVELOPMENT_TEAM = AQY38XJC5W;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-image-pickerios",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+					"$(SRCROOT)..\node_modules\neact-native-gesture-handlerios/**",
+					"$(SRCROOT)/../node_modules/react-native-geolocation-service/ios",
+					"$(SRCROOT)/../node_modules/@react-native-community/viewpager/ios",
+					"$(SRCROOT)/../node_modules/react-native-restart/ios",
+				);
+				INFOPLIST_FILE = medicalBalsam/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.fudex.balsam1;
+				PRODUCT_NAME = medicalBalsam;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		2D02E4971E0B4A5E006451C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-image-pickerios",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+					"$(SRCROOT)..\node_modules\neact-native-gesture-handlerios/**",
+					"$(SRCROOT)/../node_modules/react-native-geolocation-service/ios",
+					"$(SRCROOT)/../node_modules/@react-native-community/viewpager/ios",
+					"$(SRCROOT)/../node_modules/react-native-restart/ios",
+				);
+				INFOPLIST_FILE = "medicalBalsam-tvOS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.medicalBalsam-tvOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Debug;
+		};
+		2D02E4981E0B4A5E006451C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-image-pickerios",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+					"$(SRCROOT)..\node_modules\neact-native-gesture-handlerios/**",
+					"$(SRCROOT)/../node_modules/react-native-geolocation-service/ios",
+					"$(SRCROOT)/../node_modules/@react-native-community/viewpager/ios",
+					"$(SRCROOT)/../node_modules/react-native-restart/ios",
+				);
+				INFOPLIST_FILE = "medicalBalsam-tvOS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.medicalBalsam-tvOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Release;
+		};
+		2D02E4991E0B4A5E006451C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-image-pickerios",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+					"$(SRCROOT)..\node_modules\neact-native-gesture-handlerios/**",
+					"$(SRCROOT)/../node_modules/react-native-geolocation-service/ios",
+					"$(SRCROOT)/../node_modules/@react-native-community/viewpager/ios",
+					"$(SRCROOT)/../node_modules/react-native-restart/ios",
+				);
+				INFOPLIST_FILE = "medicalBalsam-tvOSTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.medicalBalsam-tvOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/medicalBalsam-tvOS.app/medicalBalsam-tvOS";
+				TVOS_DEPLOYMENT_TARGET = 10.1;
+			};
+			name = Debug;
+		};
+		2D02E49A1E0B4A5E006451C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_NO_COMMON_BLOCKS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)..\node_modules\neact-native-image-pickerios",
+					"$(SRCROOT)..\node_modules\neact-native-mapslibios/**",
+					"$(SRCROOT)..\node_modules\neact-native-gesture-handlerios/**",
+					"$(SRCROOT)/../node_modules/react-native-geolocation-service/ios",
+					"$(SRCROOT)/../node_modules/@react-native-community/viewpager/ios",
+					"$(SRCROOT)/../node_modules/react-native-restart/ios",
+				);
+				INFOPLIST_FILE = "medicalBalsam-tvOSTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.medicalBalsam-tvOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/medicalBalsam-tvOS.app/medicalBalsam-tvOS";
+				TVOS_DEPLOYMENT_TARGET = 10.1;
+			};
+			name = Release;
+		};
+		83CBBA201A601CBA00E9B192 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		83CBBA211A601CBA00E9B192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "medicalBalsamTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00E356F61AD99517003FC87E /* Debug */,
+				00E356F71AD99517003FC87E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "medicalBalsam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				13B07F941A680F5B00A75B9A /* Debug */,
+				13B07F951A680F5B00A75B9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "medicalBalsam-tvOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2D02E4971E0B4A5E006451C7 /* Debug */,
+				2D02E4981E0B4A5E006451C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "medicalBalsam-tvOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2D02E4991E0B4A5E006451C7 /* Debug */,
+				2D02E49A1E0B4A5E006451C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "medicalBalsam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83CBBA201A601CBA00E9B192 /* Debug */,
+				83CBBA211A601CBA00E9B192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#D9550A" android:gravity="center">
+
+
+    <ImageView android:layout_width='300px' android:layout_height="300px" android:src="@mipmap/screen" android:scaleType="fitXY" android:layout_gravity="center" android:layout_marginBottom="100dip" />
+
+
+    <!-- <ImageView
+        android:layout_width="152dp"
+        android:layout_height="141dp"
+        android:src="@mipmap/logo"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="150dp"
+        /> -->
+
+</FrameLayout>

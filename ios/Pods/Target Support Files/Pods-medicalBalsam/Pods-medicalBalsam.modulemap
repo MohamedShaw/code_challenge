@@ -1,0 +1,6 @@
+module Pods_medicalBalsam {
+  umbrella header "Pods-medicalBalsam-umbrella.h"
+
+  export *
+  module * { export * }
+}
